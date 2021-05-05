@@ -61,6 +61,25 @@ El escalado se puede realizar de forma manual o automática en función de desen
   <center><h1 class="display-4">DE CONFIANZA</h1></center>
   <p class="lead">Los proveedores de computación en la nube ofrecen servicios de copia de seguridad de datos, recuperación de desastres y replicación de datos para asegurarse de que sus datos estén siempre seguros. Además, la redundancia a menudo está integrada en la arquitectura de los servicios en la nube, por lo que si un componente falla, un componente de respaldo ocupa su lugar. Esto se conoce como tolerancia a fallas y garantiza que sus clientes no se vean afectados cuando ocurre un desastre.</p>
   <hr class="my-4">
+  
+  <center><h1 class="display-4">GLOBAL</h1></center>
+  <p class="lead">Los proveedores de la nube tienen centros de datos completamente redundantes ubicados en varias regiones de todo el mundo. Esto le brinda una presencia local cercana a sus clientes para brindarles el mejor tiempo de respuesta posible sin importar en qué parte del mundo se encuentren.
+Puede replicar sus servicios en varias regiones para obtener redundancia y localidad, o seleccionar una región específica para asegurarse de cumplir con las leyes de cumplimiento y residencia de datos para sus clientes.</p>
+  <hr class="my-4">
+  
+  <center><h1 class="display-4">SEGURA</h1></center>
+  <p class="lead">Los proveedores de la nube ofrecen un amplio conjunto de políticas, tecnologías, controles y habilidades técnicas expertas que pueden brindar una mayor seguridad que la que la mayoría de las organizaciones pueden lograr. El resultado es una seguridad reforzada, que ayuda a proteger los datos, las aplicaciones y la infraestructura de posibles amenazas.</p>
+  <hr class="my-4">
+  
+  <center><h1 class="display-4">TÉRMINOS Y REQUISITOS DE CUMPLIMIENTO</h1></center>
+  <p class="lead">Al seleccionar un proveedor de nube para alojar sus soluciones, debe comprender cómo ese proveedor puede ayudarlo a cumplir con las regulaciones y estándares.</p>
+  <hr class="my-4">
+  
+  <center><h1 class="display-4">ECONOMÍAS DE ESCALA</h1></center>
+  <p class="lead">Las economías de escala son la capacidad de hacer las cosas de manera más eficiente oa un menor costo por unidad cuando se opera a mayor escala.</p>
+  <hr class="my-4">
+  
+  
 </div>
    </div>
   
