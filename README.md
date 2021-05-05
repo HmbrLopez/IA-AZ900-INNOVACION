@@ -1,6 +1,7 @@
 # IA-AZ900-INNOVACION
 IA-AZ900-INNOVACION CONCEPTOS
 
+
 <h1>AZURE FUNDAMENTALS</h1>
 
 <h2>Exam AZ-900</h2>
@@ -47,6 +48,23 @@ El escalado se puede realizar de forma manual o automática en función de desen
       <p class="card-text"><small class="text-muted"></small></p>
     </div>
   </div>
+  
+  
+  <div>
+     <div class="jumbotron">
+      <center><img src="https://scholarsark.com/wp-content/uploads/2021/03/6270-az-900-microsoft-azure-fundamentals-exam-preparation-806x440.jpg"></center>
+  <center><h1 class="display-4">ACTUAL</h1></center>
+  <p class="lead">La nube elimina la carga de mantener parches de software, configuración de hardware, actualizaciones y otras tareas de administración de TI.</p>
+  <hr class="my-4">
+  
+  
+  <center><h1 class="display-4">DE CONFIANZA</h1></center>
+  <p class="lead">Los proveedores de computación en la nube ofrecen servicios de copia de seguridad de datos, recuperación de desastres y replicación de datos para asegurarse de que sus datos estén siempre seguros. Además, la redundancia a menudo está integrada en la arquitectura de los servicios en la nube, por lo que si un componente falla, un componente de respaldo ocupa su lugar. Esto se conoce como tolerancia a fallas y garantiza que sus clientes no se vean afectados cuando ocurre un desastre.</p>
+  <hr class="my-4">
+</div>
+   </div>
+  
+  
         
         
         
