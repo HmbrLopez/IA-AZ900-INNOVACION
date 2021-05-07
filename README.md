@@ -9,6 +9,12 @@ IA-AZ900-INNOVACION CONCEPTOS
 
 <img src="https://tecnasau.tecnasa.com/wp-content/uploads/2020/04/AI-900T00-Microsoft-Azure-Fundamentos-de-IA.jpg" class="card-img-top" alt="...">
 
+<h1>¿Qué es la informática en la nube?</h1>
+
+<center><h1 class="display-4"></h1></center>
+  <p class="lead">¿Alguna vez se ha preguntado qué es la informática en la nube? Es la entrega de servicios informáticos a través de Internet, lo que se conoce como la nube. Estos servicios incluyen servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia. La informática en la nube ofrece una innovación más rápida, recursos flexibles y economías de escala.</p>
+  <hr class="my-4">
+  
 <div class="card-body">
       <h5 class="card-title">COMPRENDER LOS CONCEPTOS DE NUBE </h5>
       <a class="btn btn-primary" href="#">QUÉ ES CLOUD COMPUTING </a>
