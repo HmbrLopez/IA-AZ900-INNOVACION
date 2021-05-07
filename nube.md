@@ -1,5 +1,7 @@
-¿Qué es la informática en la nube?
+<h1>Qué es la informática en la nube?</h1>
 
+
+[![Watch the video](https://www.uncommunitymanager.es/wp-content/uploads/seo_google_youtube.jpg)](https://www.microsoft.com/es-mx/videoplayer/embed/RE4LyBB?postJsllMsg=true&autoCaptions=es-mx)
 
 ¿Alguna vez se ha preguntado qué es la informática en la nube? Es la entrega de servicios informáticos a través de Internet, lo que se conoce como la nube. Estos servicios incluyen servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia. La informática en la nube ofrece una innovación más rápida, recursos flexibles y economías de escala.
 
@@ -8,7 +10,8 @@
 </h5>
       <a class="btn btn-primary" href="#"></a>
       <p class="card-text">
-¿Por qué suele ser más barato usar la informática en la nube?
+
+<h1>¿Por qué suele ser más barato usar la informática en la nube?</h1>
 La informática en la nube es la prestación de servicios informáticos a través de Internet mediante un modelo de precios de pago por uso. Normalmente solo se paga por los servicios en la nube que se usan, lo que permite:
 
 Reducir los costos operativos.
