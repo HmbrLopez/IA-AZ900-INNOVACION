@@ -83,6 +83,14 @@ Puede replicar sus servicios en varias regiones para obtener redundancia y local
   <p class="lead">En el pasado, las empresas necesitaban adquirir instalaciones físicas e infraestructura para iniciar su negocio. Hubo un costo inicial sustancial en hardware e infraestructura para iniciar o hacer crecer un negocio. La computación en la nube brinda servicios a los clientes sin costos iniciales significativos ni tiempo de configuración del equipo.</p>
   <hr class="my-4">
   
+  <center><h1 class="display-4">MODELOS DE DESPLIEGUE EN LA NUBE</h1></center>
+  <p class="lead">Un modelo de implementación en la nube define dónde se almacenan sus datos y cómo interactúan sus clientes con ellos: ¿cómo llegan a ellos y dónde se ejecutan las aplicaciones? También depende de la cantidad de su propia infraestructura que desee o necesite administrar.</p>
+  <hr class="my-4">
+
+<center><h1 class="display-4">NUBE PÚBLICA</h1></center>
+  <p class="lead">No hay hardware local para administrar o mantener actualizado en una nube pública; todo se ejecuta en el hardware de su proveedor de nube.</p>
+  <hr class="my-4">
+  
  Copyright
     <div class="footer-copyright text-center py-3">© 2021 Copyright:
       <a href=""> Humberto Lopez Blanco</a>
