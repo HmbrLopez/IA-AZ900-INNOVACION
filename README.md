@@ -79,6 +79,10 @@ Puede replicar sus servicios en varias regiones para obtener redundancia y local
   <p class="lead">Las economías de escala son la capacidad de hacer las cosas de manera más eficiente oa un menor costo por unidad cuando se opera a mayor escala.</p>
   <hr class="my-4">
   
+  <center><h1 class="display-4">GASTO DE CAPITAL (CAPEX) VERSUS GASTOS OPERATIVOS (OPEX)</h1></center>
+  <p class="lead">Las economías de escala son la capacidad de hacer las cosas de manera más eficiente oa un menor costo por unidad cuando se opera a mayor escala.</p>
+  <hr class="my-4">
+  
  Copyright
     <div class="footer-copyright text-center py-3">© 2021 Copyright:
       <a href=""> Humberto Lopez Blanco</a>
