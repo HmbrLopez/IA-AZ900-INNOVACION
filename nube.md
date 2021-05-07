@@ -24,3 +24,22 @@ En lugar de mantener las CPU y el almacenamiento en un centro de datos, se alqui
 </p>
       <p class="card-text"><small class="text-muted"></small></p>
     </div>
+    
+    
+<center><h1 class="display-4">¿Por qué debería migrar a la nube?</h1></center>
+  <p class="lead">La nube ayuda a moverse con más rapidez y a innovar de maneras que antes eran prácticamente imposibles.
+
+En este mundo digital cambiante, surgen dos tendencias:
+
+Los equipos proporcionan nuevas características a los usuarios a velocidades récord.
+Los usuarios esperan una experiencia cada vez más amplia y envolvente con sus dispositivos y con el software.
+Las versiones de software antes se programaban en plazos de meses o incluso años. En la actualidad, los equipos publican características en lotes más pequeños que se suelen programar en días o semanas. Algunos equipos incluso entregan actualizaciones de software de forma continua, a veces con varias versiones el mismo día.
+
+Piense en todas las formas en que interactúa con los dispositivos y que no eran posibles hace algunos años. Muchos dispositivos pueden reconocer su cara y responder a comandos de voz. La realidad aumentada cambia la manera en que interactúa con el mundo físico. Incluso los electrodomésticos empiezan a actuar de manera inteligente. Estas tecnologías son solo algunos ejemplos, y muchas de ellas tienen tecnología de nube.
+
+Para desarrollar los servicios y ofrecer experiencias de usuario innovadoras y novedosas más rápidamente, la nube proporciona acceso a petición para:
+
+Un grupo casi ilimitado de componentes de proceso, almacenamiento y redes sin procesar.
+Reconocimiento de voz y otros servicios cognitivos que ayudan a hacer que su aplicación destaque entre la multitud.
+Servicios de análisis que proporcionan datos de telemetría desde el software y los dispositivos.</p>
+  <hr class="my-4">    
