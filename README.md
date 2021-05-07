@@ -80,7 +80,7 @@ Puede replicar sus servicios en varias regiones para obtener redundancia y local
   <hr class="my-4">
   
   <center><h1 class="display-4">GASTO DE CAPITAL (CAPEX) VERSUS GASTOS OPERATIVOS (OPEX)</h1></center>
-  <p class="lead">Las economías de escala son la capacidad de hacer las cosas de manera más eficiente oa un menor costo por unidad cuando se opera a mayor escala.</p>
+  <p class="lead">En el pasado, las empresas necesitaban adquirir instalaciones físicas e infraestructura para iniciar su negocio. Hubo un costo inicial sustancial en hardware e infraestructura para iniciar o hacer crecer un negocio. La computación en la nube brinda servicios a los clientes sin costos iniciales significativos ni tiempo de configuración del equipo.</p>
   <hr class="my-4">
   
  Copyright
