@@ -26,6 +26,7 @@ En lugar de mantener las CPU y el almacenamiento en un centro de datos, se alqui
     </div>
     
     
+<img src="https://azure.microsoft.com/svghandler/azure-migrate?width=600&height=315" class="card-img-top" alt="...">
 <center><h1 class="display-4">¿Por qué debería migrar a la nube?</h1></center>
   <p class="lead">La nube ayuda a moverse con más rapidez y a innovar de maneras que antes eran prácticamente imposibles.
 
