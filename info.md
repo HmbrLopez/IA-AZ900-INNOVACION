@@ -6,3 +6,12 @@ Es la parte que se ve en un sitio web, la parte que interactúa con el usuario, 
 
 <h2>Backend</h2>
 Son partes que el usuario no ve, es la parte lógica, conexiones a la base de datos, conexiones con el servidor, el guardado de la información y otras cosas que tienen que ver con el correcto funcionamiento del sitio web.
+
+<h1>¿funciones se gestionan desde el Back-End?</h1>
+
+Desde del Back-End se llevan a cabo todas las funciones que hagan más simple el proceso de desarrollo.
+Las acciones de lógica.
+Las conexiones con las bases de datos.
+Desde el Back-End se usan las librerías del servidor web, ya sea para comprimir las imágenes de la web, para implementar temas de caché u otras.
+También se mantiene la seguridad de los sitios web.
+Gracias al Back-End se pueden optimizar los recursos a fin de que las páginas resulten más ligeras.
