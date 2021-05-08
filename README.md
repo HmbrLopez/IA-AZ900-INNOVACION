@@ -98,7 +98,7 @@ Puede replicar sus servicios en varias regiones para obtener redundancia y local
   <p class="lead">No hay hardware local para administrar o mantener actualizado en una nube pública; todo se ejecuta en el hardware de su proveedor de nube.</p>
   <hr class="my-4">
   
-  [Mas CONCEPTOS 🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑 ---->>>>>](nube.md)
+  [Mas CONCEPTOS 🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑 ---->>>>>](info.md)
  Copyright
     <div class="footer-copyright text-center py-3">© 2021 Copyright:
       <a href=""> Humberto Lopez Blanco</a>
