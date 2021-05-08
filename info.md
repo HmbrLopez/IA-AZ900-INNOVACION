@@ -9,9 +9,9 @@ Son partes que el usuario no ve, es la parte lógica, conexiones a la base de da
 
 <h1>¿funciones se gestionan desde el Back-End?</h1>
 
-Desde del Back-End se llevan a cabo todas las funciones que hagan más simple el proceso de desarrollo.
-Las acciones de lógica.
-Las conexiones con las bases de datos.
-Desde el Back-End se usan las librerías del servidor web, ya sea para comprimir las imágenes de la web, para implementar temas de caché u otras.
-También se mantiene la seguridad de los sitios web.
-Gracias al Back-End se pueden optimizar los recursos a fin de que las páginas resulten más ligeras.
+<p>Desde del Back-End se llevan a cabo todas las funciones que hagan más simple el proceso de desarrollo.</p>
+<p>Las acciones de lógica.</p>
+<p>Las conexiones con las bases de datos.</p>
+<p>Desde el Back-End se usan las librerías del servidor web, ya sea para comprimir las imágenes de la web, para implementar temas de caché u otras.</p>
+<p>También se mantiene la seguridad de los sitios web.</p>
+<p>Gracias al Back-End se pueden optimizar los recursos a fin de que las páginas resulten más ligeras.</p>
