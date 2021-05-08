@@ -15,7 +15,7 @@ IA-AZ900-INNOVACION CONCEPTOS
   <p class="lead">¿Alguna vez se ha preguntado qué es la informática en la nube? Es la entrega de servicios informáticos a través de Internet, lo que se conoce como la nube. Estos servicios incluyen servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia. La informática en la nube ofrece una innovación más rápida, recursos flexibles y economías de escala.</p>
   <hr class="my-4">
   
-  [Para Mas Info Dar Click Aqui ---->>>>>](nube.md)
+  [Para Mas Info de la nube Dar Click Aqui ---->>>>>](nube.md)
 <div class="card-body">
       <h5 class="card-title">COMPRENDER LOS CONCEPTOS DE NUBE </h5>
       <a class="btn btn-primary" href="#">QUÉ ES CLOUD COMPUTING </a>
