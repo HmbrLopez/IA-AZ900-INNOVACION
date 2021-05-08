@@ -99,13 +99,14 @@ Puede replicar sus servicios en varias regiones para obtener redundancia y local
   <hr class="my-4">
   
   [Mas CONCEPTOS 🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑🥑 🥑 ---->>>>>](info.md)
+  
+  
  Copyright
     <div class="footer-copyright text-center py-3">© 2021 Copyright:
-      <a href=""> Humberto Lopez Blanco</a>
-  
+      <a href="#"> Humberto Lopez Blanco</a>
+    
 </div>
    </div>
-  
   
         
         
