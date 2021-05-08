@@ -15,3 +15,10 @@ Son partes que el usuario no ve, es la parte lógica, conexiones a la base de da
 <p>Desde el Back-End se usan las librerías del servidor web, ya sea para comprimir las imágenes de la web, para implementar temas de caché u otras.</p>
 <p>También se mantiene la seguridad de los sitios web.</p>
 <p>Gracias al Back-End se pueden optimizar los recursos a fin de que las páginas resulten más ligeras.</p>
+
+
+
+<h1>¿Cuál es el perfil de un desarrollador de Back-End?</h1>
+ 
+
+Ser un desarrollador Back-End entraña una gran complejidad, puesto que requiere años de estudio, práctica constante, seriedad, una alta capacidad de atención y muchas dosis de concentración.
