@@ -1,0 +1,1 @@
+<img src="https://tecnasau.tecnasa.com/wp-content/uploads/2020/04/AI-900T00-Microsoft-Azure-Fundamentos-de-IA.jpg" class="card-img-top" alt="...">
