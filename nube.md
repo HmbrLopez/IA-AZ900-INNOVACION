@@ -44,3 +44,25 @@ Un grupo casi ilimitado de componentes de proceso, almacenamiento y redes sin pr
 Reconocimiento de voz y otros servicios cognitivos que ayudan a hacer que su aplicación destaque entre la multitud.
 Servicios de análisis que proporcionan datos de telemetría desde el software y los dispositivos.</p>
   <hr class="my-4">    
+
+
+<center><h1 class="display-4">¿Cuáles son algunas de las ventajas de la informática en la nube?</h1></center>
+  <p class="lead">Un entorno de nube ofrece varias ventajas en comparación con un entorno físico. 
+      Por ejemplo, las aplicaciones basadas en la nube emplean una gran cantidad de estrategias relacionadas:
+
+<h1>Confiabilidad:</h1> en función del contrato de nivel de servicio que elija, las aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua sin tiempo de inactividad perceptible aunque se produzcan errores.
+
+<h1>Escalabilidad:</h1> las aplicaciones en la nube se pueden escalar de dos maneras, sacando partido al mismo tiempo del escalado automático:
+
+<h1>Verticalmente:</h1> la capacidad informática se puede aumentar si se agrega RAM o CPU adicionales a una máquina virtual.
+<h1>Horizontalmente:</h1> la capacidad informática se puede aumentar si se agregan instancias de un recurso, como máquinas virtuales adicionales a la configuración.
+<h1>Elasticidad:</h1> las aplicaciones basadas en la nube se pueden configurar para que siempre tengan los recursos que necesitan.
+
+<h1>Agilidad:</h1> los recursos basados en la nube se pueden implementar y configurar rápidamente a medida que cambian los requisitos de la aplicación.
+
+<h1>Distribución geográfica:</h1> las aplicaciones y los datos se pueden implementar en centros de datos regionales de todo el mundo, lo que garantiza que los clientes siempre tendrán el mejor rendimiento de su región.
+
+<h1>Recuperación ante desastres:</h1> al usar los servicios de copia de seguridad basados en la nube, la replicación de datos y la distribución geográfica, podrá implementar las aplicaciones con la seguridad de saber que los datos están protegidos en caso de que se produzca un desastre.
+
+</p>
+  <hr class="my-4"> 
