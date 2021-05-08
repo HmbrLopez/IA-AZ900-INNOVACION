@@ -66,3 +66,25 @@ Servicios de análisis que proporcionan datos de telemetría desde el software y
 
 </p>
   <hr class="my-4"> 
+  
+  
+<h1>¿Qué son los modelos de servicio en la nube?</h1>
+La informática en la nube pertenece a uno de los modelos informáticos siguientes. Si ha tenido cierto contacto con la informática en la nube, probablemente haya visto los términos infraestructura como servicio (IaaS), plataforma como servicio (PaaS) y software como servicio (SaaS) para los diferentes modelos de servicio en la nube. Estos modelos definen los diferentes niveles de responsabilidad compartida de un proveedor de nube y un inquilino en la nube.  
+
+
+<h1>IaaS</h1>	
+
+Este modelo de servicio en la nube es el más parecido a la administración de servidores físicos. Un proveedor de servicios en la nube mantiene actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red es responsabilidad del inquilino de nube. Por ejemplo, las máquinas virtuales de Azure son dispositivos de proceso virtuales totalmente operativos que se ejecutan en centros de datos de Microsoft. Una ventaja de este modelo de servicio en la nube es la rápida implementación de nuevos dispositivos de proceso. La configuración de una máquina virtual nueva es considerablemente más rápida que la obtención, instalación y configuración de un servidor físico.
+
+<h1>PaaS</h1>
+
+Este modelo de servicio en la nube es un entorno de hospedaje administrado. El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado. Por ejemplo, Azure App Services proporciona un entorno de hospedaje administrado en el que los desarrolladores pueden cargar sus aplicaciones web sin tener que preocuparse por el uso de los requisitos de hardware y software físicos.
+
+<h1>SaaS</h1>
+
+En este modelo de servicio en la nube, el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de servicios en la nube. Por ejemplo, Office 365 proporciona una versión de Office totalmente operativa que se ejecuta en la nube. Lo único que debe hacer es crear el contenido y Office 365 se encarga de todo lo demás.
+
+En la ilustración siguiente se muestran los servicios que pueden ejecutarse en cada uno de los modelos de servicio en la nube.
+
+<img src="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/iaas-paas-saas.png" class="card-img-top" alt="...">
+
